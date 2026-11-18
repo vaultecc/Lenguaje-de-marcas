@@ -1,0 +1,7 @@
+1 terminar el hover
+
+2 insertar contenido
+
+3 que el indice te lleve al contenido
+
+4 y terminar footer

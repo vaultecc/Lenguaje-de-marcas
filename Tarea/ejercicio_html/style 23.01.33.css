@@ -1,0 +1,84 @@
+body {
+    background-color: midnightblue;
+    font-family: sans-serif;
+    color: white;
+}
+.principal {
+    background-color: darkcyan;
+    text-align: center;
+    width: 800px;
+    margin:auto;
+    margin-top: 50px;
+    padding: 3px;
+    max-width: 1000px;
+    border-radius: 15px;
+    border-color: whitesmoke;
+    border-style: solid;
+}
+
+.titulo {
+    background-color: darkcyan;
+    text-align: center;
+    width: 800px;
+    padding: 5px;
+    margin:auto;
+    margin-top: 20px;
+    max-width: 1000px;
+    border-radius: 100px 50px;
+    border-color: whitesmoke;
+    border-style: solid;
+}
+
+.pie {
+    background-color: darkcyan;
+    text-align: center;
+    width: 800px;
+    padding: 5px;
+    margin:auto;
+    margin-top: 20px;
+    max-width: 1000px;
+    border-radius: 15px;
+    border-color: whitesmoke;
+    border-style: solid;
+}
+
+h1 {
+    padding-top: 20px;
+    color: lightcoral;
+    font-size: 100px;
+    font-style: italic;
+}
+
+h2 {
+    color: lightcoral;
+    font-size: 35px;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+
+p {
+    font-size: 20px;
+    padding: 20px;
+    background-color: lightcoral;
+    text-align: justify;
+}
+
+ul {
+    text-align: justify;
+    font-size: 20px;
+}
+
+ol{
+    text-align: justify;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 15px;
+    max-width: 100%;
+}
+
+a {
+    color: darksalmon;
+    
+}

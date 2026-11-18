@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to right,#6BF178, #35A7FF);
+    font-family: sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+
+header {
+    background: linear-gradient(to right,#FF5964, #FFE74C );
+    width: 100%;
+    min-height: 240px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: solid;
+
+}
+
+.banner {
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    mask-image: linear-gradient(to bottom, black 60%, transparent 95%);/*Aquí añadimos un degradado al banner*/
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.flexbox { /*Aquí añadimos un contenedor flexbox para el índice y el contenido, esto hace que ambos elementos se muestren en una fila */
+    display: flex;
+}
+
+
+.Indice {/*Aquí añadimos estilos para el índice*/
+    width: 30%;
+    min-height: 400px;
+    border-bottom: solid;
+    border-right: solid;
+    background: linear-gradient(to right,#FF5964, #FFE74C );
+    h2 {
+        color: black;
+        text-align: center;
+    }
+    li {
+        margin:10px;
+    }
+    a {
+        color: whitesmoke;
+    }
+}
+
+.contenido {/*Aquí añadimos estilos para el contenido*/
+    width: 70%;
+    min-height: 00px;
+    border-bottom: solid;
+    background: linear-gradient(to right,#6BF178, #35A7FF);
+}
+

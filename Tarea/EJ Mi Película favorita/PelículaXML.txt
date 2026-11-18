@@ -1,0 +1,17 @@
+Película
+
+Mi nombre es:
+Diego
+
+Mi película favorita es:
+El club de la lucha
+
+Dos personajes pueden ser:
+- Tyler Durden
+- El narrador
+
+Año:
+1999
+
+Dato adicional:
+Nunca se llega a decir el nombre del protagonista
